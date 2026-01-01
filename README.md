@@ -25,7 +25,6 @@ Cuối cùng, đoạn AB quay chậm quanh tâm, trong khi ba nhánh quay rất 
 - SFML phiên bản 2.5 trở lên
 - Trình biên dịch hỗ trợ C++11 (g++, clang++, MSVC...)
 
-`sfml`, `cpp`, `animation`, `generative-art`, `trails`, `spirograph`, `visualization`, `hoa-van`, `hieu-ung`
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![SFML](https://img.shields.io/badge/SFML-2.5+-green.svg)
@@ -39,6 +38,8 @@ Cuối cùng, đoạn AB quay chậm quanh tâm, trong khi ba nhánh quay rất 
 3. Thêm: `sfml-graphics`, `sfml-window`, `sfml-system`
 
 4. Mở `main.cpp` và nhấn F9 để chạy
+
+`sfml`, `cpp`, `animation`, `generative-art`, `trails`, `spirograph`, `visualization`, `hoa-van`, `hieu-ung`
    
 
 [Demo](https://www.youtube.com/shorts/DocsPhlE9OU)
